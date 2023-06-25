@@ -1,0 +1,74 @@
+body{
+
+   font-family: 'Montserrat', sans-serif;
+}
+
+p{
+ text-align: center;
+}
+
+
+
+#banner{
+width: 100%;
+
+} 
+
+.tituloprincipal{
+
+   font-size: 50px;
+   font-style: italic;
+   padding: 35%;
+   
+}
+
+.titulocentralizado{
+   text-align: center;
+
+}
+
+
+em strong{
+color: red;
+}
+
+#mision{
+   
+   font-size: 20px;
+}
+
+.principal{
+
+   background: #ccc;
+   padding: 20px;
+  
+}
+
+.diferenciales{
+   font-size:25px;
+   background-color: white ;
+   padding: 30px;
+}
+
+.items{
+
+   font-style: italic;
+}
+
+ul{
+
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
+}
+
+h3{
+   font-size: 50px;
+   text-align: center;
+}
+
+.imagendiferencial{
+
+   width: 50%;
+}
